@@ -8,6 +8,9 @@
     "start": "node Backend/app.js",
     "server": "nodemon Backend/app.js"
   },
+  "engines": {
+    "node":">=16.20.1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
